@@ -24,6 +24,6 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+<h2> 📈 &nbsp;My GitHub History!</h2>
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sbas06&theme=bear&hide_border=true&layout=compact)
+![Snake animation](https://github.com/Sbas0611/Sbas0611/blob/output/github-contribution-grid-snake.svg)
