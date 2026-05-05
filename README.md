@@ -24,6 +24,6 @@
   </a>
 </p>
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<h2>📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/Sbas06/Sbas06/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Sbas06/Sbas06/output/github-contribution-grid-snake.svg)
