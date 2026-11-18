@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,c,cpp,python,typescript,html,css,threejs,react,redux,next,nodejs,express,mongodb,postman,mysql,aws,azure,firebase,netlify,heroku,vercel,git,github,githubactions,tailwind,bootstrap,sass,styledcomponents,wordpress&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,c,cpp,python,typescript,html,css,threejs,react,astro,angular,vue,redux,graphql,next,nodejs,fastapi,express,mongodb,postman,mysql,linux,windows,nginx,docker,kubernetes,aws,azure,firebase,gcp,netlify,heroku,vercel,git,github,githubactions,tailwind,bootstrap,sass,styledcomponents,wordpress&theme=dark&perline=5" />
   </a>
 </p>
 
